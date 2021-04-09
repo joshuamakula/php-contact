@@ -15,7 +15,7 @@
     </div>
 
     <div class="contact-form">
-        <form id="contact-form" action="contact-form-handeler.php" method="post">
+        <form id="contact-form" action="contact-form-handler.php" method="post">
             <input type="text" name="name" class="form-control" placeholder="Your Name" required><br>
             <input type="email" name="email" class="form-control" placeholder="Your Email" required><br>
             <textarea name="message" class="form-control"  placeholder="Message" rows="4" required></textarea><br>
